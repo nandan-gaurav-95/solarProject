@@ -1,0 +1,4 @@
+  "homepage": "https://maheshtawade2308.github.io/solarproject",
+
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
